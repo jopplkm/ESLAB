@@ -1,0 +1,14 @@
+# 忽略 IDE 暫存
+.metadata/
+RemoteSystemsTempFiles/
+.recommenders/
+
+# 忽略 Lab 子資料夾中的編譯檔
+**/Debug/
+**/Release/
+*.elf
+*.bin
+*.map
+
+# 忽略個人設定
+**/.settings/
